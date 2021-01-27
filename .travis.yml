@@ -12,6 +12,5 @@ addons:
   apt:
     packages:
      - maven
-	 
 script:
     - mvn test
